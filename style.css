@@ -1,1 +1,23 @@
+body
+{
+	background-color: gray;
+}
 
+#button
+{
+	margin: 20px auto;
+	padding: 50px;
+	background-color: cadetblue;
+	color: white;
+	border: none;
+	display: block;
+	width: 600px;
+	border-radius: 10px;
+	font-size: 60px;
+}
+
+#button:hover
+{
+	background-color: cornflowerblue;
+	cursor: pointer;
+}
